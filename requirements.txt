@@ -1,0 +1,9 @@
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.3
+pandas>=2.0
+matplotlib>=3.7
+pyfive==0.4.0
+# PyTorch networks, the extended schedule (GenoDirNet-2) and the Nucleotide Transformer (GPU):
+# torch>=2.3
+# transformers==4.44.2

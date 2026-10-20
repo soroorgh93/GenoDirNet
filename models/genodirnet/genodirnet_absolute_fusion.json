@@ -1,0 +1,12 @@
+{
+ "networks": [
+  "seq_orf_net_np_absolute",
+  "frcgr_k5_np_absolute"
+ ],
+ "coef": [
+  1.576334834098816,
+  0.3085364103317261
+ ],
+ "intercept": -1.3665555715560913,
+ "prior": 0.3276102735901731
+}
